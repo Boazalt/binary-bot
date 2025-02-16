@@ -346,8 +346,7 @@
                             </value>
                             <value name="ADD3">
                               <block type="read_details" id="6euy?Ea2zHGsp;(M[{:%" disabled="true">
-                                <field name="DETAIL_INDEX">1</field>
-                              </block>
+                                <field name="DETAIL_INDEX">1<execute digit 9 when it met it                             </block>
                             </value>
                           </block>
                         </value>
